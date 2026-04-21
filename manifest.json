@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "FEUTECH-CGPACalculator",
+    "version": "1.0.0",
+    "description": "Calculates your CGPA from FEU Tech SOLAR. Load each term to track your running GPA and check if you meet your scholarship's maintaining grade."
+    ,
+    "How to access": "Just click on the icon and you're good to go!",
+    "icons": {
+        "48": "images/icon.png"
+    },
+    "content_scripts":[
+        {
+        "matches": ["https://solar.feutech.edu.ph/student/grades"],
+        "js": ["Content.js"]
+    }
+    ]
+}
