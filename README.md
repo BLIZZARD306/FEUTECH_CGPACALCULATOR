@@ -2,6 +2,7 @@
 1. This extension does not track or record data for malicious intent. Previous data would only reflect based on what's been loaded prior to its current usage. 
 2. This supports any chromium-based browers.
 3. Further improvements would be done from gathered feedback.
+4. Would upload this to chrome extension, once i have the means to do so.
 
 =HOW TO SETUP=
 1. Download the repository to your local directory.
@@ -18,3 +19,4 @@
 5. When your grades have been fetched, click on the widget's "Add current term".
 6. If by accident you want to remove a record that has been loaded, just click on the cross button corresponding to that term
 7. If you want to start fresh, just click the "Clear all terms" button
+
