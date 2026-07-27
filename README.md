@@ -5,7 +5,7 @@
 4. Would upload this to chrome extension, once i have the means to do so.
 
 =HOW TO SETUP=
-1. Download the repository to your local directory.
+1. Download the repository to your local directory(Extract, if downloaded as ZIP).
 2. Open your browser and paste "chrome://extensions".
 3. Turn on "Developer Mode" on the top-right, if it hasn't yet been enabled.
 4. Click on the option "Load Unpacked"
